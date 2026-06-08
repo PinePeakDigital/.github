@@ -1,6 +1,6 @@
 # Pine Peak Digital
 
-We build fast, reliable full-stack web applications — and a few products of our own.
+We build fast, reliable full-stack web applications, and a few products of our own.
 
 Pine Peak Digital is the studio of [Nathan Arthur](https://nathanarthur.com).
 We take on full-stack web work: web apps, backends, payments & subscriptions
