@@ -12,7 +12,7 @@ Astro, and Cloudflare.
 - **[TaskRatchet](https://taskratchet.com)** - stake-based todo list (commitment device).
 - **[buzz](https://github.com/pinepeakdigital/buzz)** - Beeminder CLI & TUI (Go).
 - **[autodial](https://github.com/pinepeakdigital/autodial)** - Beeminder goal rate dialing tool.
-  **[bm](https://github.com/pinepeakdigital/bm)** - custom Beeminder dashboard.
+- **[bm](https://github.com/pinepeakdigital/bm)** - custom Beeminder dashboard.
 
 ### Work with us
 
